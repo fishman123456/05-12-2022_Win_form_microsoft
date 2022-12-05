@@ -21,7 +21,7 @@ namespace _05_12_2022_Win_form_microsoft
             {
                 MessageBox.Show("Хорошо");
             }
-
+           
 
         }
     }

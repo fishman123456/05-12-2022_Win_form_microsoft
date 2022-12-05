@@ -15,3 +15,4 @@ C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-
 C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.pdb
 C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.genruntimeconfig.cache
 C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\ref\05-12-2022_Win_form_microsoft.dll
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\_05_12_2022_Win_form_microsoft.Properties.Resources.resources
