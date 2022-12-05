@@ -1,0 +1,17 @@
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\bin\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.exe
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\bin\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.deps.json
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\bin\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\bin\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.dll
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\bin\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.pdb
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\_05_12_2022_Win_form_microsoft.Form1.resources
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.csproj.GenerateResource.cache
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.dll
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\refint\05-12-2022_Win_form_microsoft.dll
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.pdb
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\05-12-2022_Win_form_microsoft.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\05-12-2022_Win_form_microsoft\obj\Debug\net6.0-windows\ref\05-12-2022_Win_form_microsoft.dll
